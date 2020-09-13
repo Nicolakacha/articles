@@ -8,6 +8,7 @@
 2. [Git & GitHub 快速入門](https://nicolakacha.coderbridge.io/2020/09/04/learn-git/)
 3. [Computer Science 入門](http://nicolakacha.coderbridge.io/2020/09/05/cs-basics/)
 4. [WEB 網路基礎概念](http://nicolakacha.coderbridge.io/2020/09/05/http/)
+5. [Regular Expression 正規表達式](https://nicolakacha.coderbridge.io/2020/09/13/regex/)
 
 ## JavaScript
 
