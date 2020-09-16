@@ -57,3 +57,4 @@
 3. [實作 PHP API & 留言板 SPA （番外篇：實作載入更多功能）](http://nicolakacha.coderbridge.io/2020/09/12/php-api-board-3/)
 4. [實作 To do List SPA（上）：前端部份](http://nicolakacha.coderbridge.io/2020/09/12/todo-api-1/)
 5. [實作 To do List SPA（下）：後端及 API 串接部份](http://nicolakacha.coderbridge.io/2020/09/12/todo-api-2/)
+6. [AWS EC2 佈署網站：卡關記錄](https://nicolakacha.coderbridge.io/2020/09/16/launch-website/)
