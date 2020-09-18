@@ -49,6 +49,7 @@
 3. [常見網路攻擊及防範方法](https://nicolakacha.coderbridge.io/2020/09/11/web-security/)
 4. [物件導向 PHP 入門](https://nicolakacha.coderbridge.io/2020/09/11/oop/)
 5. [用 PHP 打造留言板 實作筆記](https://nicolakacha.coderbridge.io/2020/09/07/php-board-basics/)
+6. [資料庫初探：RDBMS & NoSQL](https://nicolakacha.coderbridge.io/2020/09/18/database-intro/)
 
 ## 全端
 
