@@ -30,7 +30,7 @@
 1. [學會 HTML & CSS （關於 HTML 的部份）](http://nicolakacha.coderbridge.io/2020/09/06/html/)
 2. [學會 HTML & CSS （關於 CSS 的部份）](https://nicolakacha.coderbridge.io/2020/09/06/css/)
 3. [CSS Flex & Grid 排版詳解（上）：What the Flex?](https://nicolakacha.coderbridge.io/2020/09/20/css-flex-&-grid-%E6%8E%92%E7%89%88%E8%A9%B3%E8%A7%A3/)
-4. [CSS Grid 排版](https://nicolakacha.coderbridge.io/2020/09/06/grid/)
+4. [CSS Flex & Grid 排版詳解（下）：Oh My Grid!]
 5. [CSS 切版眉角](https://nicolakacha.coderbridge.io/2020/09/06/making-layout/)
 6. [JavaScript 操控 DOM 元素](https://nicolakacha.coderbridge.io/2020/09/06/dom/)
 7. [JavaScript 前端串串 API](https://nicolakacha.coderbridge.io/2020/09/06/api-js/)
