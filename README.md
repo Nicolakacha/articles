@@ -16,14 +16,13 @@
 2. [關於模組化、匯入、匯出](https://nicolakacha.coderbridge.io/2020/09/05/js-module/)
 3. [NPM 是什麼？怎麼用？](http://nicolakacha.coderbridge.io/2020/09/05/npm/)
 4. [用 Jest 做單元測試](http://nicolakacha.coderbridge.io/2020/09/05/jest/)
-5. [ES6：新的變數宣告方法 Let & Const](https://nicolakacha.coderbridge.io/2020/09/05/es6-let-const/)
-6. [ES6：Template Literals 樣板字面值](https://nicolakacha.coderbridge.io/2020/09/05/es6-template-literals/)
-7. [ES6：Destructuring 解構](https://nicolakacha.coderbridge.io/2020/09/05/es6-destructuring/)
-8. [ES6 其他好用的新語法](https://nicolakacha.coderbridge.io/2020/09/05/es6-others/)
-9. [ES7, ES8, ES10 有趣的 new features](http://nicolakacha.coderbridge.io/2020/09/05/es7-8-10-new-features/)
-10. [RESTful API 是什麼？](http://nicolakacha.coderbridge.io/2020/09/05/restful-api/)
-11. [用 node.js 的 request library 串接 API](https://www.coderbridge.com/@Nicolakacha/52169a88d00540f99494bd46dac9ba44)
-12. [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](http://nicolakacha.coderbridge.io/2020/09/11/sync-async/)
+5. [ES6：Template Literals 樣板字面值](https://nicolakacha.coderbridge.io/2020/09/05/es6-template-literals/)
+6. [ES6：Destructuring 解構](https://nicolakacha.coderbridge.io/2020/09/05/es6-destructuring/)
+7. [ES6 其他好用的新語法](https://nicolakacha.coderbridge.io/2020/09/05/es6-others/)
+8. [ES7, ES8, ES10 有趣的 new features](http://nicolakacha.coderbridge.io/2020/09/05/es7-8-10-new-features/)
+9. [RESTful API 是什麼？](http://nicolakacha.coderbridge.io/2020/09/05/restful-api/)
+10. [用 node.js 的 request library 串接 API](https://www.coderbridge.com/@Nicolakacha/52169a88d00540f99494bd46dac9ba44)
+11. [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](http://nicolakacha.coderbridge.io/2020/09/11/sync-async/)
 
 ## 前端
 
