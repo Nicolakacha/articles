@@ -24,6 +24,7 @@
 10. [用 node.js 的 request library 串接 API](https://www.coderbridge.com/@Nicolakacha/52169a88d00540f99494bd46dac9ba44)
 11. [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](http://nicolakacha.coderbridge.io/2020/09/11/sync-async/)
 12. [JavaScript: 資料型態 & 變數賦值](https://nicolakacha.coderbridge.io/2020/09/29/javascript-datatype-and-variable-assignment/)
+13. [JavaScript 作用域 & 提升](https://nicolakacha.coderbridge.io/2020/09/29/javascript-scope-hoisting/)
 
 ## 前端
 
