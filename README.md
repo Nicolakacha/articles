@@ -25,7 +25,8 @@
 11. [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](http://nicolakacha.coderbridge.io/2020/09/11/sync-async/)
 12. [JavaScript: 資料型態 & 變數賦值](https://nicolakacha.coderbridge.io/2020/09/29/javascript-datatype-and-variable-assignment/)
 13. [JavaScript 作用域 & 提升](https://nicolakacha.coderbridge.io/2020/09/29/javascript-scope-hoisting/)
-14. [JavaScript 物件導向、原型鏈與 this](https://nicolakacha.coderbridge.io/2020/10/01/oop-prototype-this/)
+14. [JavaScript: Execution Context & 閉包](https://nicolakacha.coderbridge.io/2020/10/03/ec-closure/)
+15. [JavaScript 物件導向、原型鏈與 this](https://nicolakacha.coderbridge.io/2020/10/01/oop-prototype-this/)
 
 ## 前端
 
