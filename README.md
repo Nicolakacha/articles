@@ -1,8 +1,5 @@
 # 技術文章列表
 
-這裡用來放技術文章列表
-
-
 ## 基礎知識
 1. [Command Line 初學](http://nicolakacha.coderbridge.io/2020/09/04/command-line/) 
 2. [Git & GitHub 快速入門](https://nicolakacha.coderbridge.io/2020/09/04/learn-git/)
